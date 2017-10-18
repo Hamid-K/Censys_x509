@@ -6,8 +6,6 @@ RSA keys that are vulnerable as the result of an implementation flaw
 in Infenion RSA key generation algorithm.
 
 """
-
-
 import os
 import json
 from pprint import pprint
